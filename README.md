@@ -68,9 +68,17 @@ We mark works contributed by ourselves with ⭐.
 
 #### 2024
 
+- `[2024 ICML]` ⭐ **Test-Time Degradation Adaption for Open-Set Image Restoration**  
+*Yuanbiao Gou, Haiyu Zhao, Boyun Li, Xinyan Xiao, Xi Peng*  
+[[paper]](https://arxiv.org/abs/2312.02197)
+
 - `[2024 ICLR]` **Controlling Vision-Language Models for Universal Image Restoration**  
 *Ziwei Luo, Fredrik K. Gustafsson, Zheng Zhao, Jens Sjölund, Thomas B. Schön*  
 [[paper]](https://arxiv.org/abs/2310.01018) [[code]](https://github.com/Algolzw/daclip-uir.git)
+
+- `[2024 CVPR]` **Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model**  
+*Dian Zheng, Xiao-Ming Wu, Shuzhou Yang, Jian Zhang, Jian-Fang Hu, Wei-Shi Zheng*  
+[[paper]](https://arxiv.org/abs/2403.11157) [[code]](https://github.com/iSEE-Laboratory/DiffUIR?tab=readme-ov-file)
 
 - `[2024 Arxiv]` **AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation**  
 *Yuning Cui, Syed Waqas Zamir, Salman Khan, Alois Knoll, Mubarak Shah, Fahad Shahbaz Khan*   
@@ -105,6 +113,10 @@ We mark works contributed by ourselves with ⭐.
 - `[2023 Arxiv]` **Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration**  
 *Yuang Ai, Huaibo Huang, Xiaoqiang Zhou, Jiexiang Wang, Ran He*  
 [[paper]](https://arxiv.org/abs/2312.02918)
+
+- `[2023 Arxiv]` **Prompt-In-Prompt Learning for Universal Image Restoration**  
+*Zilong Li, Yiming Lei, Chenglong Ma, Junping Zhang, Hongming Shan*  
+[[paper]](https://arxiv.org/abs/2312.05038v1) [[code]](https://github.com/longzilicart/pip_universal)
 
 - `[2023 Arxiv]` **DRM-IR: Task-Adaptive Deep Unfolding Network for All-In-One Image Restoration**  
 *Yuanshuo Cheng, Mingwen Shao, Yecong Wan, Chao Wang*   
@@ -152,3 +164,6 @@ We mark works contributed by ourselves with ⭐.
 
 ## Misc
 
+- `[2022 Arxiv]` **Relationship Quantification of Image Degradations**  
+*Wenxin Wang, Boyun Li, Yuanbiao Gou, Peng Hu, Xi Peng*  
+[[paper]](https://arxiv.org/abs/2212.04148)

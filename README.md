@@ -42,14 +42,11 @@ We mark works contributed by ourselves with ⭐.
 *Qingnan Fan, Dongdong Chen, Lu Yuan, Gang Hua, Nenghai Yu, Baoquan Chen*   
 [[paper]](https://arxiv.org/abs/1907.05852) [[code]](https://github.com/fqnchina/DecoupleLearning.git)
 
-#### Before 2020
+#### 2020
 
 - `[2020 CVPR]` **All in One Bad Weather Removal Using Architectural Search**  
 *Ruoteng Li, Robby T. Tan, Loong-Fah Cheong*   
 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_All_in_One_Bad_Weather_Removal_Using_Architectural_Search_CVPR_2020_paper.html)
-
-<!-- * `[]` ****
-** [[paper]]() [[code]]() -->
 
 
 ### Blind All-In-One Image Restoration
@@ -74,6 +71,14 @@ We mark works contributed by ourselves with ⭐.
 *Ozan Özdenizci, Robert Legenstein*   
 [[paper]](https://arxiv.org/abs/2207.14626) [[code]](https://github.com/IGITUGraz/WeatherDiffusion.git)
 
+- `[2023 CVPR]` **Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions**  
+*Yurui Zhu, Tianyu Wang, Xueyang Fu, Xuanyu Yang, Xin Guo, Jifeng Dai, Yu Qiao, Xiaowei Hu*  
+[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Learning_Weather-General_and_Weather-Specific_Features_for_Image_Restoration_Under_Multiple_CVPR_2023_paper.pdf) [[code]](https://github.com/zhuyr97/WGWS-Net.git)
+
+- `[2023 ICCV]` **Adverse Weather Removal with Codebook Priors**  
+*Tian Ye, Sixiang Chen, Jinbin Bai, Jun Shi, Chenghao Xue, Jingxia Jiang, Junjie Yin, Erkang Chen, Yun Liu*  
+[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ye_Adverse_Weather_Removal_with_Codebook_Priors_ICCV_2023_paper.pdf) [[code]](https://github.com/Owen718/AWRCP.git)
+
 - `[2023 Arxiv]` **AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion**  
 *Yitong Jiang, Zhaoyang Zhang, Tianfan Xue, Jinwei Gu*   
 [[paper]](https://arxiv.org/pdf/2310.10123) [[code]](https://github.com/jiangyitong/AutoDIR.git)
@@ -92,9 +97,9 @@ We mark works contributed by ourselves with ⭐.
 *Jeya Maria Jose Valanarasu, Rajeev Yasarla, Vishal M. Patel*   
 [[paper]](https://arxiv.org/abs/2111.14813) [[code]](https://github.com/jeya-maria-jose/TransWeather.git)
 
-<!-- * `[]` ****
-** [[paper]]() [[code]]() -->
-
+- `[2022 CVPR]` **Learning Multiple Adverse Weather Removal via Two-stage Knowledge Learning and Multi-contrastive Regularization: Toward a Unified Model**  
+*Wei-Ting Chen, Zhi-Kai Huang, Cheng-Che Tsai, Hao-Hsiang Yang, Jian-Jiun Ding, Sy-Yen Kuo*   
+[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Learning_Multiple_Adverse_Weather_Removal_via_Two-Stage_Knowledge_Learning_and_CVPR_2022_paper.pdf) [[code]](https://github.com/fingerk28/Two-stage-Knowledge-For-Multiple-Adverse-Weather-Removal.git)
 
 ## All-In-One Video Restoration
 
@@ -105,6 +110,10 @@ We mark works contributed by ourselves with ⭐.
 [[paper]](https://arxiv.org/abs/2403.07684) [[code]](https://github.com/scott-yjyang/DiffTTA)
 
 #### 2023
+
+- `[2023 ICCV]` **Video Adverse-Weather-Component Suppression Network via Weather Messenger and Adversarial Backpropagation**  
+*Yijun Yang, Angelica I. Aviles-Rivero, Huazhu Fu, Ye Liu, Weiming Wang, Lei Zhu*  
+[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_Video_Adverse-Weather-Component_Suppression_Network_via_Weather_Messenger_and_Adversarial_Backpropagation_ICCV_2023_paper.html) [[code]](https://github.com/scott-yjyang/ViWS-Net.git)
 
 - `[2023 Arxiv]` **Cross-Consistent Deep Unfolding Network for Adaptive All-In-One Video Restoration**  
 *Yuanshuo Cheng, Mingwen Shao, Yecong Wan, Yuanjian Qiao, Wangmeng Zuo, Deyu Meng*   

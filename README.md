@@ -83,7 +83,7 @@ We mark works contributed by ourselves with ⭐.
 [[paper]](https://arxiv.org/abs/2306.13090) [[code]](https://github.com/va1shn9v/PromptIR.git)
 
 - `[2023 CVPR]` **Ingredient-oriented Multi-Degradation Learning for Image Restoration**  
-*Jinghao Zhang, Jie Huang, Mingde Yao, Zizheng Yang, Hu Yu, Man Zhou, Feng Zhao*
+*Jinghao Zhang, Jie Huang, Mingde Yao, Zizheng Yang, Hu Yu, Man Zhou, Feng Zhao*  
 [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Ingredient-Oriented_Multi-Degradation_Learning_for_Image_Restoration_CVPR_2023_paper.pdf) [[code]](https://github.com/JingHao99/IDR-Ingredients-oriented-Degradation-Reformulation.git)
 
 - `[2023 CVPR]` **Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions**  

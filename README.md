@@ -21,7 +21,7 @@ We mark works contributed by ourselves with ⭐.
 
 ## All-In-One Image Restoration
 
-### Open-set All-In-One Image Restoration
+### Open-set Image Restoration
 
 - `[2024 ICML]` ⭐ **Test-Time Degradation Adaption for Open-Set Image Restoration**  
 *Yuanbiao Gou, Haiyu Zhao, Boyun Li, Xinyan Xiao, Xi Peng*  

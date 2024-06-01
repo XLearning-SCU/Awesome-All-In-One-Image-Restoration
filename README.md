@@ -22,15 +22,7 @@ We mark works contributed by ourselves with ⭐.
 ## All-In-One Image Restoration
 
 ### Open-set All-In-One Image Restoration
-<<<<<<< HEAD
-=======
 
-<<<<<<< HEAD
-#### 2024
->>>>>>> fa52086 (240601update)
-
-=======
->>>>>>> c323ee0 (update240601)
 - `[2024 ICML]` ⭐ **Test-Time Degradation Adaption for Open-Set Image Restoration**  
 *Yuanbiao Gou, Haiyu Zhao, Boyun Li, Xinyan Xiao, Xi Peng*  
 [[paper]](https://arxiv.org/abs/2312.02197)
@@ -39,15 +31,7 @@ We mark works contributed by ourselves with ⭐.
 
 #### 2022
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 - `[2022 CVPR]` ⭐ **<a id="AirNet">All-In-One Image Restoration for Unknown Corruption</a>**  
-=======
-- `[2022 CVPR]` ⭐ **All-In-One Image Restoration for Unknown Corruption**  
->>>>>>> fa52086 (240601update)
-=======
-- `[2022 CVPR]` ⭐ **<a id="AirNet">All-In-One Image Restoration for Unknown Corruption</a>**  
->>>>>>> c323ee0 (update240601)
 *Boyun Li, Xiao Liu, Peng Hu, Zhongqin Wu, Jiancheng Lv, Xi Peng*   
 [[paper]](http://pengxi.me/wp-content/uploads/2022/03/All-In-One-Image-Restoration-for-Unknown-Corruption.pdf) [[code]](https://github.com/XLearning-SCU/2022-CVPR-AirNet.git)
 

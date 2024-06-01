@@ -1,6 +1,6 @@
 # Awesome-All-In-One-Image-Restoration (Updating)
 
-This curated list of papers related to all-in-one image/video restoration. All-in-one image/video restoration aims to handle multiple degradations with one model. 
+This curated list of papers related to all-in-one image/video restoration. All-in-one image/video restoration aims to handle multiple degradations with one model [[1]](#AirNet). 
 
 We mark works contributed by ourselves with ⭐.
 
@@ -23,8 +23,6 @@ We mark works contributed by ourselves with ⭐.
 
 ### Open-set All-In-One Image Restoration
 
-#### 2024
-
 - `[2024 ICML]` ⭐ **Test-Time Degradation Adaption for Open-Set Image Restoration**  
 *Yuanbiao Gou, Haiyu Zhao, Boyun Li, Xinyan Xiao, Xi Peng*  
 [[paper]](https://arxiv.org/abs/2312.02197)
@@ -33,7 +31,7 @@ We mark works contributed by ourselves with ⭐.
 
 #### 2022
 
-- `[2022 CVPR]` ⭐ **All-In-One Image Restoration for Unknown Corruption**  
+- `[2022 CVPR]` ⭐ **<a id="AirNet">All-In-One Image Restoration for Unknown Corruption</a>**  
 *Boyun Li, Xiao Liu, Peng Hu, Zhongqin Wu, Jiancheng Lv, Xi Peng*   
 [[paper]](http://pengxi.me/wp-content/uploads/2022/03/All-In-One-Image-Restoration-for-Unknown-Corruption.pdf) [[code]](https://github.com/XLearning-SCU/2022-CVPR-AirNet.git)
 

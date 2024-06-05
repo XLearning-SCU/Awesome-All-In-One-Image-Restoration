@@ -29,6 +29,8 @@ We mark works contributed by ourselves with ⭐.
 
 ### Blind All-In-One Image Restoration
 
+Blind all-in-one image restoration aims to recover corrupted images without prior knowledge of the degradations.
+
 #### 2022
 
 - `[2022 CVPR]` ⭐ **<a id="AirNet">All-In-One Image Restoration for Unknown Corruption</a>**  
@@ -90,6 +92,8 @@ We mark works contributed by ourselves with ⭐.
 [[paper]](https://arxiv.org/abs/2403.14614) [[code]](https://github.com/c-yn/AdaIR.git)
 
 ### Non-Blind All-In-One Image Restoration
+
+Non-blind all-in-one image restoration requires to know the degradation types or/and levels in advance and leverages the degradation prior to perform targeted restoration.
 
 #### 2020
 

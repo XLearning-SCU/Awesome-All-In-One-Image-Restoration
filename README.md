@@ -27,7 +27,7 @@ We mark works contributed by ourselves with ⭐.
 
 - `[2024 ICML]` ⭐ **Test-Time Degradation Adaption for Open-Set Image Restoration**  
 *Yuanbiao Gou, Haiyu Zhao, Boyun Li, Xinyan Xiao, Xi Peng*  
-[[paper]](https://arxiv.org/abs/2312.02197)
+[[paper]](https://arxiv.org/abs/2312.02197) [[code]](https://github.com/XLearning-SCU/2024-ICML-TAO)
 
 ### Blind All-In-One Image Restoration
 

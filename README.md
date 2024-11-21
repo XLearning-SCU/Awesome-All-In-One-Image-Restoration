@@ -27,7 +27,7 @@ We mark works contributed by ourselves with ⭐.
 
 - `[2024 ICML]` ⭐ **Test-Time Degradation Adaption for Open-Set Image Restoration**  
 *Yuanbiao Gou, Haiyu Zhao, Boyun Li, Xinyan Xiao, Xi Peng*  
-[[paper]](https://arxiv.org/abs/2312.02197)
+[[paper]](https://arxiv.org/abs/2312.02197) [[code]](https://github.com/XLearning-SCU/2024-ICML-TAO)
 
 ### Blind All-In-One Image Restoration
 
@@ -35,7 +35,7 @@ We mark works contributed by ourselves with ⭐.
 
 - `[2022 CVPR]` ⭐ **<a id="AirNet">All-In-One Image Restoration for Unknown Corruption</a>**  
 *Boyun Li, Xiao Liu, Peng Hu, Zhongqin Wu, Jiancheng Lv, Xi Peng*   
-[[paper]](http://pengxi.me/wp-content/uploads/2022/03/All-In-One-Image-Restoration-for-Unknown-Corruption.pdf) [[code]](https://github.com/XLearning-SCU/2022-CVPR-AirNet.git)
+[[paper]](http://pengxi.me/wp-content/uploads/2022/03/All-In-One-Image-Restoration-for-Unknown-Corruption.pdf) [[code]](https://github.com/XLearning-SCU/2022-CVPR-AirNet.git) [![](https://img.shields.io/github/stars/XLearning-SCU/2022-CVPR-AirNet?style=social&label=Stars)](https://github.com/XLearning-SCU/2022-CVPR-AirNet)
 
 - `[2022 CVPR]` **TransWeather: Transformer-based Restoration of Images Degraded by Adverse Weather Conditions**  
 *Jeya Maria Jose Valanarasu, Rajeev Yasarla, Vishal M. Patel*   

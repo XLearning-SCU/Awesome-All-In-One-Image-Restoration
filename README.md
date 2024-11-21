@@ -13,7 +13,7 @@ We mark works contributed by ourselves with ⭐.
 - [All-In-One Image Restoration](#All-in-one-image-restoration)
   - [Open-set Image Restoration](#Open-set-Image-Restoration)
   - [Blind All-In-One Image Restoration](#Blind-All-In-One-Image-Restoration)
-  - [Non-All-In-One Image Restoration](#Non-Blind-All-In-One-Image-Restoration)
+  - [Non-Blind All-In-One Image Restoration](#Non-Blind-All-In-One-Image-Restoration)
 - [All-In-One Video Restoration](#All-In-One-Video-Restoration)
 - [Misc](#Misc)
 

@@ -17,7 +17,9 @@ We mark works contributed by ourselves with ⭐.
 - [All-In-One Video Restoration](#All-In-One-Video-Restoration)
 - [Misc](#Misc)
 
+**Blind all-in-one image restoration** aims to recover corrupted images from multiple unknown degradations with one model.
 
+**Non-blind all-in-one image restoration** requires to know the degradation types or/and levels in advance and leverages the degradation knowledge to perform targeted restoration with one model.
 
 ## All-In-One Image Restoration
 
@@ -41,36 +43,46 @@ We mark works contributed by ourselves with ⭐.
 
 #### 2023
 
-- `[2023 NIPS]` **PromptIR: Prompting for All-in-One Blind Image Restoration**  
+- `[2023 NeurIPS]` **PromptIR: Prompting for All-in-One Blind Image Restoration**  
 *Vaishnav Potlapalli, Syed Waqas Zamir, Salman Khan, Fahad Shahbaz Khan*   
 [[paper]](https://arxiv.org/abs/2306.13090) [[code]](https://github.com/va1shn9v/PromptIR.git)
+
 - `[2023 CVPR]` **Ingredient-oriented Multi-Degradation Learning for Image Restoration**  
 *Jinghao Zhang, Jie Huang, Mingde Yao, Zizheng Yang, Hu Yu, Man Zhou, Feng Zhao*  
 [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Ingredient-Oriented_Multi-Degradation_Learning_for_Image_Restoration_CVPR_2023_paper.pdf) [[code]](https://github.com/JingHao99/IDR-Ingredients-oriented-Degradation-Reformulation.git)
+
 - `[2023 CVPR]` **Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions**  
 *Yurui Zhu, Tianyu Wang, Xueyang Fu, Xuanyu Yang, Xin Guo, Jifeng Dai, Yu Qiao, Xiaowei Hu*  
 [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Learning_Weather-General_and_Weather-Specific_Features_for_Image_Restoration_Under_Multiple_CVPR_2023_paper.pdf) [[code]](https://github.com/zhuyr97/WGWS-Net.git)
+
 - `[2023 ICCV]` **Adverse Weather Removal with Codebook Priors**  
 *Tian Ye, Sixiang Chen, Jinbin Bai, Jun Shi, Chenghao Xue, Jingxia Jiang, Junjie Yin, Erkang Chen, Yun Liu*  
 [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ye_Adverse_Weather_Removal_with_Codebook_Priors_ICCV_2023_paper.pdf) [[code]](https://github.com/Owen718/AWRCP.git)
+
 - `[2023 TPAMI]` **Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models**  
 *Ozan Özdenizci, Robert Legenstein*   
 [[paper]](https://arxiv.org/abs/2207.14626) [[code]](https://github.com/IGITUGraz/WeatherDiffusion.git)
+
 - `[2023 Arxiv]` **AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion**  
 *Yitong Jiang, Zhaoyang Zhang, Tianfan Xue, Jinwei Gu*   
 [[paper]](https://arxiv.org/pdf/2310.10123) [[code]](https://github.com/jiangyitong/AutoDIR.git)
+
 - `[2023 Arxiv]` **Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration**  
 *Yuang Ai, Huaibo Huang, Xiaoqiang Zhou, Jiexiang Wang, Ran He*  
 [[paper]](https://arxiv.org/abs/2312.02918)
+
 - `[2023 Arxiv]` **Prompt-In-Prompt Learning for Universal Image Restoration**  
 *Zilong Li, Yiming Lei, Chenglong Ma, Junping Zhang, Hongming Shan*  
 [[paper]](https://arxiv.org/abs/2312.05038v1) [[code]](https://github.com/longzilicart/pip_universal)
+
 - `[2023 Arxiv]` **DRM-IR: Task-Adaptive Deep Unfolding Network for All-In-One Image Restoration**  
 *Yuanshuo Cheng, Mingwen Shao, Yecong Wan, Chao Wang*   
 [[paper]](https://arxiv.org/abs/2307.07688)
+
 - `[2023 Arxiv]` **Language-driven All-in-one Adverse Weather Removal**  
 *Hao Yang, Liyuan Pan, Yan Yang, Wei Liang*  
 [[paper]](https://arxiv.org/abs/2312.01381)
+
 - `[2023 Arxiv]` **Always Clear Days: Degradation Type and Severity Aware All-In-One Adverse Weather Removal**  
 *Yu-Wei Chen, Soo-Chang Pei*  
 [[paper]](https://arxiv.org/abs/2310.18293) [[code]](https://github.com/fordevoted/UtilityIR)
@@ -84,6 +96,10 @@ We mark works contributed by ourselves with ⭐.
 - `[2024 CVPR]` **Selective Hourglass Mapping for Universal Image Restoration Based on Diffusion Model**  
 *Dian Zheng, Xiao-Ming Wu, Shuzhou Yang, Jian Zhang, Jian-Fang Hu, Wei-Shi Zheng*  
 [[paper]](https://arxiv.org/abs/2403.11157) [[code]](https://github.com/iSEE-Laboratory/DiffUIR?tab=readme-ov-file)
+
+- `[2024 ACM MM]` **Learning A Low-Level Vision Generalist via Visual Task Prompt**  
+*Xiangyu Chen, Yihao Liu, Yuandong Pu, Wenlong Zhang, Jiantao Zhou, Yu Qiao, Chao Dong*  
+[[paper]](http://arxiv.org/abs/2408.08601) [[code]](https://github.com/chxy95/GenLV)
 
 - `[2024 Arxiv]` **AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation**  
 *Yuning Cui, Syed Waqas Zamir, Salman Khan, Alois Knoll, Mubarak Shah, Fahad Shahbaz Khan*   
@@ -122,6 +138,7 @@ We mark works contributed by ourselves with ⭐.
 - `[2023 CVPR]` **Generative Diffusion Prior for Unified Image Restoration and Enhancement**  
 *Ben Fei, Zhaoyang Lyu, Liang Pan, Junzhe Zhang, Weidong Yang, Tianyue Luo, Bo Zhang, Bo Dai*  
 [[paper]](https://arxiv.org/abs/2304.01247) [[code]](https://github.com/Fayeben/GenerativeDiffusionPrior.git)
+
 - `[2023 Arxiv]` **Exploring Degradation-aware Visual Prompt for Universal Image Restoration**  
   *Jiaqi Ma, Tianheng Cheng, Guoli Wang, Qian Zhang, Xinggang Wang, Lefei Zhang*  
   [[paper]](https://arxiv.org/abs/2306.13653) [[code]](https://github.com/leonmakise/ProRes.git)
@@ -146,6 +163,10 @@ We mark works contributed by ourselves with ⭐.
 [[paper]](https://arxiv.org/abs/2309.01627)
 
 #### 2024
+
+- `[2024 NeurIPS]` ⭐ **All-in-one Video Restoration for Time-varying Unknown Degradations**  
+*Haiyu Zhao, Lei Tian, Xinyan Xiao, Peng Hu, Yuanbiao Gou, Xi Peng*   
+[[paper]](https://openreview.net/pdf/cd985f5642f31d02e47d062bc783deb7c2d1fa8a.pdf) [[code]](https://github.com/XLearning-SCU/2024-NeurIPS-AverNet)
 
 - `[2024 CVPR]` **Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal**  
 *Yijun Yang, Hongtao Wu, Angelica I. Aviles-Rivero, Yulun Zhang, Jing Qin, Lei Zhu*   

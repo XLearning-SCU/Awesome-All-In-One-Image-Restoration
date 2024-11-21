@@ -43,7 +43,7 @@ We mark works contributed by ourselves with ⭐.
 
 #### 2023
 
-- `[2023 NIPS]` **PromptIR: Prompting for All-in-One Blind Image Restoration**  
+- `[2023 NeurIPS]` **PromptIR: Prompting for All-in-One Blind Image Restoration**  
 *Vaishnav Potlapalli, Syed Waqas Zamir, Salman Khan, Fahad Shahbaz Khan*   
 [[paper]](https://arxiv.org/abs/2306.13090) [[code]](https://github.com/va1shn9v/PromptIR.git)
 

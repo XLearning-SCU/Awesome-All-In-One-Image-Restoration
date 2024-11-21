@@ -97,6 +97,10 @@ We mark works contributed by ourselves with ⭐.
 *Dian Zheng, Xiao-Ming Wu, Shuzhou Yang, Jian Zhang, Jian-Fang Hu, Wei-Shi Zheng*  
 [[paper]](https://arxiv.org/abs/2403.11157) [[code]](https://github.com/iSEE-Laboratory/DiffUIR?tab=readme-ov-file)
 
+- `[2024 ACM MM]` **Learning A Low-Level Vision Generalist via Visual Task Prompt**  
+*Xiangyu Chen, Yihao Liu, Yuandong Pu, Wenlong Zhang, Jiantao Zhou, Yu Qiao, Chao Dong*  
+[[paper]](http://arxiv.org/abs/2408.08601) [[code]](https://github.com/chxy95/GenLV)
+
 - `[2024 Arxiv]` **AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation**  
 *Yuning Cui, Syed Waqas Zamir, Salman Khan, Alois Knoll, Mubarak Shah, Fahad Shahbaz Khan*   
 [[paper]](https://arxiv.org/abs/2403.14614) [[code]](https://github.com/c-yn/AdaIR.git)
@@ -159,6 +163,10 @@ We mark works contributed by ourselves with ⭐.
 [[paper]](https://arxiv.org/abs/2309.01627)
 
 #### 2024
+
+- `[2024 NeurIPS]` ⭐ **All-in-one Video Restoration for Time-varying Unknown Degradations**  
+*Haiyu Zhao, Lei Tian, Xinyan Xiao, Peng Hu, Yuanbiao Gou, Xi Peng*   
+[[paper]](https://openreview.net/pdf/cd985f5642f31d02e47d062bc783deb7c2d1fa8a.pdf) [[code]](https://github.com/XLearning-SCU/2024-NeurIPS-AverNet)
 
 - `[2024 CVPR]` **Genuine Knowledge from Practice: Diffusion Test-Time Adaptation for Video Adverse Weather Removal**  
 *Yijun Yang, Hongtao Wu, Angelica I. Aviles-Rivero, Yulun Zhang, Jing Qin, Lei Zhu*   

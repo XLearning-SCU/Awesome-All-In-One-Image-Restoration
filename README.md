@@ -63,10 +63,6 @@ We mark works contributed by ourselves with ⭐.
 *Ozan Özdenizci, Robert Legenstein*   
 [[paper]](https://arxiv.org/abs/2207.14626) [[code]](https://github.com/IGITUGraz/WeatherDiffusion.git)
 
-- `[2023 Arxiv]` **AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion**  
-*Yitong Jiang, Zhaoyang Zhang, Tianfan Xue, Jinwei Gu*   
-[[paper]](https://arxiv.org/pdf/2310.10123) [[code]](https://github.com/jiangyitong/AutoDIR.git)
-
 - `[2023 Arxiv]` **Multimodal Prompt Perceiver: Empower Adaptiveness, Generalizability and Fidelity for All-in-One Image Restoration**  
 *Yuang Ai, Huaibo Huang, Xiaoqiang Zhou, Jiexiang Wang, Ran He*  
 [[paper]](https://arxiv.org/abs/2312.02918)
@@ -75,9 +71,9 @@ We mark works contributed by ourselves with ⭐.
 *Zilong Li, Yiming Lei, Chenglong Ma, Junping Zhang, Hongming Shan*  
 [[paper]](https://arxiv.org/abs/2312.05038v1) [[code]](https://github.com/longzilicart/pip_universal)
 
-- `[2023 Arxiv]` **DRM-IR: Task-Adaptive Deep Unfolding Network for All-In-One Image Restoration**  
+- `[2023 Arxiv]` **RDM-IR: Task-Adaptive Deep Unfolding Network for All-In-One Image Restoration**  
 *Yuanshuo Cheng, Mingwen Shao, Yecong Wan, Chao Wang*   
-[[paper]](https://arxiv.org/abs/2307.07688)
+[[paper]](https://arxiv.org/abs/2307.07688) [[code]](https://github.com/YuanshuoCheng/RDM-IR)
 
 - `[2023 Arxiv]` **Language-driven All-in-one Adverse Weather Removal**  
 *Hao Yang, Liyuan Pan, Yan Yang, Wei Liang*  
@@ -97,9 +93,21 @@ We mark works contributed by ourselves with ⭐.
 *Dian Zheng, Xiao-Ming Wu, Shuzhou Yang, Jian Zhang, Jian-Fang Hu, Wei-Shi Zheng*  
 [[paper]](https://arxiv.org/abs/2403.11157) [[code]](https://github.com/iSEE-Laboratory/DiffUIR?tab=readme-ov-file)
 
+- `[2024 ECCV]` **Restoring Images in Adverse Weather Conditions via Histogram Transformer**  
+*Shangquan Sun, Wenqi Ren, Xinwei Gao, Rui Wang, Xiaochun Cao*  
+[[paper]](https://arxiv.org/abs/2407.10172) [[code]](https://github.com/sunshangquan/Histoformer)
+
+- `[2024 ECCV]` **AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion**  
+*Yitong Jiang, Zhaoyang Zhang, Tianfan Xue, Jinwei Gu*   
+[[paper]](https://arxiv.org/pdf/2310.10123) [[code]](https://github.com/jiangyitong/AutoDIR.git)
+
 - `[2024 ACM MM]` **Learning A Low-Level Vision Generalist via Visual Task Prompt**  
 *Xiangyu Chen, Yihao Liu, Yuandong Pu, Wenlong Zhang, Jiantao Zhou, Yu Qiao, Chao Dong*  
 [[paper]](http://arxiv.org/abs/2408.08601) [[code]](https://github.com/chxy95/GenLV)
+
+- `[2024 MICCAI]` **All-In-One Medical Image Restoration via Task-Adaptive Routing**  
+*Zhiwen Yang, Haowei Chen, Ziniu Qian, Yang Yi, Hui Zhang, Dan Zhao, Bingzheng Wei, Yan Xu*  
+[[paper]](https://arxiv.org/abs/2405.19769) [[code]](https://github.com/Yaziwel/All-In-One-Medical-Image-Restoration-via-Task-Adaptive-Routing)
 
 - `[2024 Arxiv]` **AdaIR: Adaptive All-in-One Image Restoration via Frequency Mining and Modulation**  
 *Yuning Cui, Syed Waqas Zamir, Salman Khan, Alois Knoll, Mubarak Shah, Fahad Shahbaz Khan*   
@@ -145,7 +153,7 @@ We mark works contributed by ourselves with ⭐.
 
 #### 2024
 
-- `[2024 Arxiv]` **InstructIR: High-Quality Image Restoration Following Human Instructions**  
+- `[2024 ECCV]` **InstructIR: High-Quality Image Restoration Following Human Instructions**  
 *Marcos V. Conde, Gregor Geigle, Radu Timofte*  
 [[paper]](https://arxiv.org/abs/2401.16468) [[code]](https://github.com/mv-lab/InstructIR.git)
 

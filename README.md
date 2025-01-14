@@ -6,20 +6,18 @@ We mark works contributed by ourselves with ⭐.
 
 *This repository now is maintained by [Boyun Li](https://liboyun.github.io/), [Yuanbiao Gou](https://ybgou.github.io/) and [Haiyu Zhao](https://pandint.github.io/about/), feel free to contact us if you have any questions.*
 
+# TODO
+<!-- Blind All-in-one Restoration (BAR) is an emerging NEW research DIRECTION of image and video restoration. BAR aims to address multiple unknown types of degradations in a unified framework, rather than handling each known degradation separately as in traditional approaches.  -->
 
+<!-- XLearning group devotes to pushing image and video restoration towards more general application scenarios. Specifically, we have introduced several pioneering solutions: one of the first blind all-in-one image restoration network (AirNet, CVPR 2022), the first open-set image restoration method (TAO, ICML 2024), and the first blind all-in-one video restoration for time-varying degradations (AverNet, NeurIPS 2024). -->
 
 ## Table of Contents
 
 - [All-In-One Image Restoration](#All-in-one-image-restoration)
   - [Open-set Image Restoration](#Open-set-Image-Restoration)
-  - [Blind All-In-One Image Restoration](#Blind-All-In-One-Image-Restoration)
-  - [Non-Blind All-In-One Image Restoration](#Non-Blind-All-In-One-Image-Restoration)
+  - [All-In-One Image Restoration](#All-In-One-Image-Restoration)
 - [All-In-One Video Restoration](#All-In-One-Video-Restoration)
 - [Misc](#Misc)
-
-**Blind all-in-one image restoration** aims to recover corrupted images from multiple unknown degradations with one model.
-
-**Non-blind all-in-one image restoration** requires to know the degradation types or/and levels in advance and leverages the degradation knowledge to perform targeted restoration with one model.
 
 ## All-In-One Image Restoration
 
@@ -29,7 +27,7 @@ We mark works contributed by ourselves with ⭐.
 *Yuanbiao Gou, Haiyu Zhao, Boyun Li, Xinyan Xiao, Xi Peng*  
 [[paper]](https://arxiv.org/abs/2312.02197) [[code]](https://github.com/XLearning-SCU/2024-ICML-TAO)
 
-### Blind All-In-One Image Restoration
+### All-In-One Image Restoration
 
 #### 2022
 
@@ -50,10 +48,6 @@ We mark works contributed by ourselves with ⭐.
 - `[2023 CVPR]` **Ingredient-oriented Multi-Degradation Learning for Image Restoration**  
 *Jinghao Zhang, Jie Huang, Mingde Yao, Zizheng Yang, Hu Yu, Man Zhou, Feng Zhao*  
 [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Ingredient-Oriented_Multi-Degradation_Learning_for_Image_Restoration_CVPR_2023_paper.pdf) [[code]](https://github.com/JingHao99/IDR-Ingredients-oriented-Degradation-Reformulation.git)
-
-- `[2023 CVPR]` **Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions**  
-*Yurui Zhu, Tianyu Wang, Xueyang Fu, Xuanyu Yang, Xin Guo, Jifeng Dai, Yu Qiao, Xiaowei Hu*  
-[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Learning_Weather-General_and_Weather-Specific_Features_for_Image_Restoration_Under_Multiple_CVPR_2023_paper.pdf) [[code]](https://github.com/zhuyr97/WGWS-Net.git)
 
 - `[2023 ICCV]` **Adverse Weather Removal with Codebook Priors**  
 *Tian Ye, Sixiang Chen, Jinbin Bai, Jun Shi, Chenghao Xue, Jingxia Jiang, Junjie Yin, Erkang Chen, Yun Liu*  
@@ -131,10 +125,6 @@ We mark works contributed by ourselves with ⭐.
 *Qingnan Fan, Dongdong Chen, Lu Yuan, Gang Hua, Nenghai Yu, Baoquan Chen*   
 [[paper]](https://arxiv.org/abs/1907.05852) [[code]](https://github.com/fqnchina/DecoupleLearning.git)
 
-- `[2021 Arxiv]` **On Efficient Transformer-Based Image Pre-training for Low-Level Vision**  
-*Wenbo Li, Xin Lu, Shengju Qian, Jiangbo Lu, Xiangyu Zhang, Jiaya Jia*  
-[[paper]](https://arxiv.org/abs/2112.10175) [[code]](https://github.com/fenglinglwb/EDT.git)
-
 #### 2022
 
 - `[2022 ECCV]` **TAPE: Task-Agnostic Prior Embedding for Image Restoration**  
@@ -146,6 +136,14 @@ We mark works contributed by ourselves with ⭐.
 - `[2023 CVPR]` **Generative Diffusion Prior for Unified Image Restoration and Enhancement**  
 *Ben Fei, Zhaoyang Lyu, Liang Pan, Junzhe Zhang, Weidong Yang, Tianyue Luo, Bo Zhang, Bo Dai*  
 [[paper]](https://arxiv.org/abs/2304.01247) [[code]](https://github.com/Fayeben/GenerativeDiffusionPrior.git)
+
+- `[2023 CVPR]` **Learning Weather-General and Weather-Specific Features for Image Restoration Under Multiple Adverse Weather Conditions**  
+*Yurui Zhu, Tianyu Wang, Xueyang Fu, Xuanyu Yang, Xin Guo, Jifeng Dai, Yu Qiao, Xiaowei Hu*  
+[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Learning_Weather-General_and_Weather-Specific_Features_for_Image_Restoration_Under_Multiple_CVPR_2023_paper.pdf) [[code]](https://github.com/zhuyr97/WGWS-Net.git)
+
+- `[2023 IJCAI]` **On Efficient Transformer-Based Image Pre-training for Low-Level Vision**  
+*Wenbo Li, Xin Lu, Shengju Qian, Jiangbo Lu, Xiangyu Zhang, Jiaya Jia*  
+[[paper]](https://arxiv.org/abs/2112.10175) [[code]](https://github.com/fenglinglwb/EDT.git)
 
 - `[2023 Arxiv]` **Exploring Degradation-aware Visual Prompt for Universal Image Restoration**  
   *Jiaqi Ma, Tianheng Cheng, Guoli Wang, Qian Zhang, Xinggang Wang, Lefei Zhang*  
@@ -172,7 +170,7 @@ We mark works contributed by ourselves with ⭐.
 
 #### 2024
 
-- `[2024 NeurIPS]` ⭐ **All-in-one Video Restoration for Time-varying Unknown Degradations**  
+- `[2024 NeurIPS]` ⭐ **AverNet: All-in-one Video Restoration for Time-varying Unknown Degradations**  
 *Haiyu Zhao, Lei Tian, Xinyan Xiao, Peng Hu, Yuanbiao Gou, Xi Peng*   
 [[paper]](https://openreview.net/pdf/cd985f5642f31d02e47d062bc783deb7c2d1fa8a.pdf) [[code]](https://github.com/XLearning-SCU/2024-NeurIPS-AverNet)
 
